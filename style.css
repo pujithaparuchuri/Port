@@ -1,3 +1,4 @@
+
 body {
   font-family: 'Raleway', sans-serif;
   background: rgba(242, 242, 242, .6);
@@ -37,7 +38,7 @@ body {
   height: 100vh; /*height to 100% of view height*/
   background: #31b0d5; /*background color to blue*/
   margin-bottom: 0; /*no bottom margin*/
-background-image:url("books.jpg");
+background-image:url("books.jpg")no-repeat top center;
   display: flex;
   flex-direction: column;
 }
