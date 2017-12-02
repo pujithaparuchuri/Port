@@ -39,6 +39,7 @@ body {
   background: #31b0d5; /*background color to blue*/
   margin-bottom: 0; /*no bottom margin*/
 background-image:url("books1.jpg");
+  background-position:center;
   display: flex;
   flex-direction: column;
 }
