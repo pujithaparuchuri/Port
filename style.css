@@ -39,6 +39,7 @@ body {
   background: #31b0d5; /*background color to blue*/
   margin-bottom: 0; /*no bottom margin*/
 background-image:url("books1.jpg");
+  background-size:auto;
   background-position:center;
   background-repeat:no-repeat;
   display: flex;
